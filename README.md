@@ -1,5 +1,6 @@
 # topo
 #### 通过Vue.js和d3.js实现关系拓扑图（仅供学习参考使用）
+#### 具体代码参考App.vue
 
 
 ## Build Setup
